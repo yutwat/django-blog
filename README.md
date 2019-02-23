@@ -1,3 +1,3 @@
 # django-blog
-# django-blog
-# django-blog
+
+This is my first django blog.
